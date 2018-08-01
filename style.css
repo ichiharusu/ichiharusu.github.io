@@ -9,7 +9,14 @@ body {
   font-size: 20px ;
 }
 
+/* トップ */
+
+#top {
+  font-family: 'Anton', sans-serif;
+  font-size:45px
+}
+
 #top-image  h1{
   font-family: 'Anton', sans-serif;
-  font-size: 60px;
+  font-size: 90px;
 }
