@@ -19,4 +19,5 @@ body {
 #top-image  h1{
   font-family: 'Anton', sans-serif;
   font-size: 90px;
+  padding-bottom: -20px
 }
