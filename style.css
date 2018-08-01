@@ -11,7 +11,7 @@ body {
 
 /* トップ */
 
-#top {
+#top-image  {
   font-family: 'Anton', sans-serif;
   font-size:45px
 }
@@ -19,5 +19,5 @@ body {
 #top-image  h1{
   font-family: 'Anton', sans-serif;
   font-size: 90px;
-  padding-bottom: -20px
+  background-color: #808080
 }
