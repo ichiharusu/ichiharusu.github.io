@@ -11,13 +11,12 @@ body {
 /* トップ */
 
 #top-image  {
-  font-family: 'Anton', sans-serif;
   font-size:45px;
 }
 
 #top-image  h1{
   font-family: 'Anton', 'sans-serif';
-  font-size: 150px;
+  font-size: 200px;
   background-color: #808080
 }
 
