@@ -4,19 +4,29 @@
 body {
   font-family: 'メイリオ' ,
                         'Hiragino Kaku Gothic Pro' ,
-                         'sans-serif' ;
-  font-size: 20px ;
+                         'sans-serif';
+  font-size: 20px;
 }
 
 /* トップ */
 
 #top-image  {
   font-family: 'Anton', sans-serif;
-  font-size:45px
+  font-size:45px;
 }
 
 #top-image  h1{
-  font-family: 'Anton', sans-serif;
-  font-size: 90px;
+  font-family: 'Anton', 'sans-serif';
+  font-size: 150px;
   background-color: #808080
+}
+
+/* works-more*/
+#work-more {
+  background-color: #00008b;
+  padding: 10px 80px;
+  border-radius: 10px;
+  color: #white;
+  font-weight: bold;
+  text-decoration: none;
 }
