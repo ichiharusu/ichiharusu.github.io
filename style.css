@@ -10,17 +10,18 @@ body {
 
 /* トップ */
 
-#top-image  {
+.top-image  {
+  font-family: 'Anton', sans-serif;
   font-size:45px;
 }
 
-#top-image  h1{
+.top-image  h1{
   font-size: 200px;
   background-color: #808080
 }
 
 /* works-more*/
-#work-more {
+.work-more {
   background-color: #00008b;
   padding: 10px 80px;
   border-radius: 10px;
